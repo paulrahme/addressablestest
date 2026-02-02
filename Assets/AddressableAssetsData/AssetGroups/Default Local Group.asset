@@ -14,7 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Default Local Group
   m_GUID: 7403ea965bccb7f42a9cd50259ec0f5d
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 3445dd704223e360a84623831ad74235
+    m_Address: Sphere_Dog.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f67ebfd39058c370f890f1a806afafd2
+    m_Address: Sphere_Cat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ecde66f2c6cb6b87d8078750bcc096b5, type: 2}
   m_SchemaSet:
